@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(53, 53, 53);
+}
+
+#navbar {
+    background-color: black;
+}
+#navbar a {
+    color: #fff;
+    text-decoration: none;
+}
+#navbar a:hover {
+    color: rgb(177, 169, 169);
+}
+
+
+#red:hover {
+   background-color: red;
+}
+#yellow:hover {
+   background-color: yellow;
+}
+#blue:hover {
+   background-color: blue;
+}
+#green:hover {
+   background-color: green;
+}
+#orange:hover {
+   background-color: orange;
+}
+#indigo:hover {
+   background-color: indigo;
+}
+#violet:hover {
+   background-color: violet;
+}
+#brown:hover {
+   background-color: brown;
+}
+
+
+
+
